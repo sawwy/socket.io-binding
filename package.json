@@ -3,8 +3,8 @@
   "name": "@mswjs/socket.io-binding",
   "version": "1.0.0",
   "description": "",
-  "main": "./lib/index.js",
-  "types": "./lib/index.d.ts",
+  "main": "./src/index.js",
+  "types": "./src/index.d.ts",
   "scripts": {
     "test": "vitest"
   },
